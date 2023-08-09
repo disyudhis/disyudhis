@@ -60,7 +60,4 @@ Have an interesting project in mind or just want to say hi? Feel free to reach o
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
