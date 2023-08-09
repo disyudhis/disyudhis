@@ -43,7 +43,7 @@ I believe in the power of technology to shape a better future. My journey is all
 
 ## 🌱 Currently Learning
 
-Exploring AI and Machine Learning to bring innovation to the world of [Your Field].
+Exploring the world of React.js and its powerful ecosystem to build dynamic and interactive web applications..
 
 ## ✨ GitHub Stats
 
