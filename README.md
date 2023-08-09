@@ -1,4 +1,3 @@
-<!-- BLOG-POST-LIST:START -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="500"/>
 </div>
@@ -58,5 +57,10 @@ Exploring AI and Machine Learning to bring innovation to the world of [Your Fiel
 ## 📬 Let's Connect
 
 Have an interesting project in mind or just want to say hi? Feel free to reach out at yudhistiraaaa20@gmail.com.
+
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
