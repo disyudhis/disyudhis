@@ -14,4 +14,4 @@ jobs:
       - uses: disyudhis/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/itsYudhis"
+          feed_list: "https://dev.to/feed/disyudhis"
