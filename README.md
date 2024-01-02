@@ -43,7 +43,7 @@ I believe in the power of technology to shape a better future. My journey is all
 
 ## 🌱 Currently Learning
 
-Exploring the world of React.js and its powerful ecosystem to build dynamic and interactive web applications..
+Exploring the world of Laravel and its powerful ecosystem to build dynamic and interactive web applications..
 
 ## ✨ GitHub Stats
 
